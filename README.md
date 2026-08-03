@@ -81,4 +81,3 @@ Move from manual testing basics → automation → AI/GenAI testing, and become 
 
 ---
 
-*This repo is a public accountability log — following a structured path from QA fundamentals to AI-aware SDET.*
